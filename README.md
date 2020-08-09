@@ -1,6 +1,7 @@
 <img align="center" src="https://user-images.githubusercontent.com/54548466/89668368-02bee800-d8b4-11ea-87fa-707f10720039.jpg"/>
 
-
+# 💻 Sobre o projeto
+🏫 Proffy - É uma plataforma onde você pode estudar ou dar aulas. Um professor colocando seu dados, a matéria que quer ensinar, e escolher o melhor horário para dar a sua aula. Assim, os dados cadastrados ficaram disponíveis no site onde alunos podem escolher o professor que melhor se encaixa na em suas preferências.
 <p>Projeto desenvolvido durante a NLW - Next Level Week#02 oferecida pela Rocketseat.
 
  <h1>🚀Como executar o projeto</h1>
