@@ -41,7 +41,9 @@ O servidor inciará na porta:5500 - acesse http://localhost:5500
 
 <h1> 🦸 Autor</h1>
 
- <img style="margin-radius: 50rem;" src="https://avatars3.githubusercontent.com/u/64045378?s=96&v=4" width="100px;" alt=""/>
+ <img style="width: 8rem;
+    height: 8rem;
+    border-radius: 50px;" src="https://avatars0.githubusercontent.com/u/64045378?s=460&u=7f5da38dfb171bbc963779095a3ef67dec9f08ea&v=4" width="150px;" alt=""/>
  <br/> 
  <sub>Debora Ellen Santos 💜</sub>
  
