@@ -10,16 +10,16 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 <h1> 🧭Rodando a aplicação </h1>
 
- Clone este repositório
+ Clone este repositório:</br>
 $ git clone https://github.com/deboraellenss/Proffys
 
- Acesse a pasta do projeto no seu vscode
+ Acesse a pasta do projeto no seu vscode:</br>
 $ cd proffy-discovery
 
-Instale as dependências
+Instale as dependências:</br>
 $ npm install
 
-Execute a aplicação 
+Execute a aplicação:</br> 
 $ npm start
 
 O servidor inciará na porta:5500 - acesse http://localhost:5500 
